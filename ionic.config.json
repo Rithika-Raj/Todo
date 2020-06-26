@@ -1,0 +1,8 @@
+{
+  "name": "devdacticFire",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
